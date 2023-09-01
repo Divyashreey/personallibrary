@@ -1,0 +1,42 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: url("https://t4.ftcdn.net/jpg/05/75/63/01/360_F_575630185_sz9hHi0Lcku8owBXt99aF3icU2mgWJ0p.jpg");
+    background-size:cover;
+  }
+  .container{ 
+    display: grid;
+   justify-content: space-between;
+   padding:5px 5px 5px 5px;
+  }  
+button {
+    display: inline-block;
+    padding: 5px 30px;
+    background-color: #faebd7;
+    color: #000;
+    border: none;
+    border-radius:5px ;
+    cursor: pointer;
+    font-size: 16px;
+    font-family:courier;
+    font-style:bold;
+    transition-duration: 0.4s;
+    margin-right: 30px;
+    margin-left:660px;
+    margin-bottom:10px;
+   
+  }
+  button:hover {
+    background-color: #4CAF50; 
+    color: white;
+  }
+  h1{
+    text-align:center;
+    top:50px;
+    font-style: italic;
+    font-size: 35px;
+            margin: 20px;
+            padding: 5px;
+            color: #00A4B4;
+  }
+  
+  
